@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/oil-drilling-dashboard/', // GitHub repository name
+  base: "/test", // GitHub repository name
 });
